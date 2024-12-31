@@ -28,6 +28,14 @@
         <mxCell id="LGKpaFDRPndn7I6KlxH4-16" value="filterConditionTriggerByTemplateV3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="890" width="200" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-17" target="LGKpaFDRPndn7I6KlxH4-23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="930" />
+              <mxPoint x="310" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-17" value="filterActionByTemplateV3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="890" width="140" height="20" as="geometry" />
         </mxCell>
