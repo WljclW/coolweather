@@ -4,26 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-1" value="filterConditionTriggerByTemplateV3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="140" width="200" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-2" value="filterActionByTemplateV3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="190" width="140" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-3" value="filterConditionTriggerByTemplateV3FromMiPhone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="240" width="270" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-4" value="filterActionByTemplateV3FromMiPhone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="290" width="230" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="240" y="150" width="20" height="150" as="geometry" />
-        </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-7" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;打开模板RN端主动调用&lt;br&gt;目的：筛选出当前家庭下满足要求(std_rule_id指定)的设备&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="200" width="190" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-8" value="openCloudTriggerDialogWithParam" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="370" width="200" height="30" as="geometry" />
+          <mxGeometry x="220" y="370" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="627" y="540" width="200" height="30" as="geometry" />
@@ -38,13 +20,28 @@
           <mxGeometry x="500" y="600" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-13" value="openVoiceTriggerDialogWithParam" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="430" width="200" height="30" as="geometry" />
+          <mxGeometry x="220" y="530" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-14" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="540" width="200" height="30" as="geometry" />
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-14" value="openTimerTriggerDialogWithParam" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="440" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="610" width="200" height="30" as="geometry" />
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-16" value="filterConditionTriggerByTemplateV3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="890" width="200" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-17" value="filterActionByTemplateV3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="890" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-18" value="filterConditionTriggerByTemplateV3FromMiPhone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="435" y="890" width="270" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-19" value="filterActionByTemplateV3FromMiPhone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="890" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-21" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;打开模板RN端主动调用&lt;br&gt;目的：筛选出当前家庭下满足要求(std_rule_id指定)的设备&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="830" width="280" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="50" y="870" width="820" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
