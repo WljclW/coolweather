@@ -11,7 +11,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-13" value="openVoiceTriggerDialogWithParam" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="214" y="1720" width="200" height="30" as="geometry" />
+          <mxGeometry x="212" y="1720" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-14" value="openTimerTriggerDialogWithParam" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="214" y="1630" width="200" height="30" as="geometry" />
@@ -144,9 +144,6 @@
         <mxCell id="LGKpaFDRPndn7I6KlxH4-60" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="190" y="1570" width="20" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-61" value=".........." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="214" y="1800" width="200" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-62" target="LGKpaFDRPndn7I6KlxH4-66">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -228,6 +225,9 @@
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-90" value="设置信息确认后，需要回传的数据：alies、voicectrl_auth_scene_device" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1175" y="1635" width="205" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-92" value="...." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="1790" width="200" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
