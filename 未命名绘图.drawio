@@ -85,6 +85,14 @@
         <mxCell id="LGKpaFDRPndn7I6KlxH4-29" value="SmartHomeDeviceManager.&lt;br&gt;getInstance().findSoloDevices();" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="1020" width="220" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-30" target="LGKpaFDRPndn7I6KlxH4-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="1260" />
+              <mxPoint x="480" y="1260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-30" value="tmpDevicesInHomeRoom.add(device)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="1190" width="210" height="30" as="geometry" />
         </mxCell>
