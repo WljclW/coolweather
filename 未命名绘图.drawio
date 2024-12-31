@@ -102,7 +102,7 @@
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-31">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="870" y="1300" as="targetPoint" />
+            <mxPoint x="850" y="1300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-31" value="SceneRouterFactory.getSceneBridge().&lt;br&gt;filterActionValueWithStdRuleId(tmpDevicesInHomeRoom,stdRuleId);" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -124,7 +124,7 @@
           <mxGeometry x="450" y="1240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-54" value="devices，std_rule_id" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="720" y="1277" width="120" height="30" as="geometry" />
+          <mxGeometry x="710" y="1277" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
