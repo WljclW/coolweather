@@ -43,8 +43,17 @@
         <mxCell id="LGKpaFDRPndn7I6KlxH4-22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=south;" vertex="1" parent="1">
           <mxGeometry x="50" y="870" width="820" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-23" target="LGKpaFDRPndn7I6KlxH4-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-23" target="LGKpaFDRPndn7I6KlxH4-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-23" value="前置检查（检查是不是含有std_rule_id）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="940" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-24" target="LGKpaFDRPndn7I6KlxH4-25">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-24" value="HomeManager.getInstance()&lt;br&gt;.getHomeDids(curHome.getId(),true)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="1020" width="240" height="30" as="geometry" />
@@ -52,8 +61,14 @@
         <mxCell id="LGKpaFDRPndn7I6KlxH4-25" value="检查设备是否符合要求（did合法 并且 设备合法 并且 设备所属的房间合法）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="50" y="1100" width="240" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-27" target="LGKpaFDRPndn7I6KlxH4-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-27" value="&lt;span style=&quot;text-align: left;&quot;&gt;CarManager.INSTANCE.getCarRooms()&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1020" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-28" target="LGKpaFDRPndn7I6KlxH4-30">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-28" value="检查设备是否符合要求（did合法 并且 设备合法 并且 设备所属的房间合法）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1100" width="240" height="30" as="geometry" />
@@ -66,6 +81,15 @@
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-31" value="SceneRouterFactory.getSceneBridge().&lt;br&gt;filterActionValueWithStdRuleId(tmpDevicesInHomeRoom,stdRuleId);" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="1280" width="390" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-39" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="19.720000000000027" y="1180" as="sourcePoint" />
+            <mxPoint x="375" y="1207.75" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="1180" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
