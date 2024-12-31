@@ -5,13 +5,13 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LGKpaFDRPndn7I6KlxH4-8" value="openCloudTriggerDialogWithParam" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="370" width="200" height="30" as="geometry" />
+          <mxGeometry x="214" y="1560" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-13" value="openVoiceTriggerDialogWithParam" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="530" width="200" height="30" as="geometry" />
+          <mxGeometry x="214" y="1720" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-14" value="openTimerTriggerDialogWithParam" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="440" width="200" height="30" as="geometry" />
+          <mxGeometry x="214" y="1630" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-16" value="filterConditionTriggerByTemplateV3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="10" y="890" width="200" height="20" as="geometry" />
@@ -134,6 +134,15 @@
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-57" value="SpecSceneHelper.Companion.findDeviceById(did)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="960" y="1160" width="300" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-59" value="ConcurrentHashMap&amp;lt;String, CopyOnWriteArrayList&amp;lt;String&amp;gt;&amp;gt; stdActionsDid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="850" width="420" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-60" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="190" y="1570" width="20" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-61" value=".........." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="1800" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
