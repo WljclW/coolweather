@@ -139,7 +139,7 @@
           <mxGeometry x="960" y="1160" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-59" value="ConcurrentHashMap&amp;lt;String, CopyOnWriteArrayList&amp;lt;String&amp;gt;&amp;gt; stdActionsDid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1060" y="850" width="420" height="150" as="geometry" />
+          <mxGeometry x="1080" y="790" width="420" height="150" as="geometry" />
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-60" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="190" y="1570" width="20" height="240" as="geometry" />
