@@ -47,7 +47,22 @@
           <mxGeometry x="240" y="940" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-24" value="HomeManager.getInstance()&lt;br&gt;.getHomeDids(curHome.getId(),true)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1010" width="240" height="30" as="geometry" />
+          <mxGeometry x="50" y="1020" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-25" value="检查设备是否符合要求（did合法 并且 设备合法 并且 设备所属的房间合法）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="1100" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-27" value="&lt;span style=&quot;text-align: left;&quot;&gt;CarManager.INSTANCE.getCarRooms()&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1020" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-28" value="检查设备是否符合要求（did合法 并且 设备合法 并且 设备所属的房间合法）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="1100" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-29" value="SmartHomeDeviceManager.&lt;br&gt;getInstance().findSoloDevices();" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="1020" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-30" value="tmpDevicesInHomeRoom.add(device)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="375" y="1220" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
