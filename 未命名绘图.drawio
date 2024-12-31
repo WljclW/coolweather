@@ -112,6 +112,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-31" target="LGKpaFDRPndn7I6KlxH4-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-31" value="SceneRouterFactory.getSceneBridge().&lt;br&gt;filterActionValueWithStdRuleId(tmpDevicesInHomeRoom,stdRuleId);" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="1280" width="390" height="40" as="geometry" />
         </mxCell>
@@ -125,7 +128,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-44" value="数据转换、返回结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="422.5" y="1390" width="115" height="20" as="geometry" />
+          <mxGeometry x="422.5" y="1380" width="115" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-49" value="" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="905" y="1280" width="125" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
