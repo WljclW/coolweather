@@ -62,7 +62,10 @@
           <mxGeometry x="660" y="1020" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-30" value="tmpDevicesInHomeRoom.add(device)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="375" y="1220" width="210" height="30" as="geometry" />
+          <mxGeometry x="375" y="1190" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-31" value="SceneRouterFactory.getSceneBridge().&lt;br&gt;filterActionValueWithStdRuleId(tmpDevicesInHomeRoom,stdRuleId);" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="1280" width="390" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
