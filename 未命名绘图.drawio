@@ -5,16 +5,19 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LGKpaFDRPndn7I6KlxH4-1" value="filterConditionTriggerByTemplateV3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="100" width="200" height="30" as="geometry" />
+          <mxGeometry x="260" y="140" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-2" value="filterActionByTemplateV3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="190" width="140" height="30" as="geometry" />
+          <mxGeometry x="260" y="190" width="140" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-3" value="filterConditionTriggerByTemplateV3FromMiPhone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="290" width="270" height="30" as="geometry" />
+          <mxGeometry x="260" y="240" width="270" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-4" value="filterConditionTriggerByTemplateV3FromMiPhone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="370" width="270" height="30" as="geometry" />
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-4" value="filterActionByTemplateV3FromMiPhone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="290" width="230" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-6" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="240" y="150" width="20" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
