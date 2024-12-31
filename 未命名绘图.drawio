@@ -158,6 +158,11 @@
         <mxCell id="LGKpaFDRPndn7I6KlxH4-62" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;初始点开模板？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="554" y="1697" width="146" height="75" as="geometry" />
         </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-66">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="627" y="1940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-66" value="从参数中读取scene_id，alies；activity跳转" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="507" y="1830" width="240" height="40" as="geometry" />
         </mxCell>
@@ -192,7 +197,7 @@
           <mxGeometry x="597" y="1650" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-74" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="1480" width="120" height="60" as="geometry" />
+          <mxGeometry x="850" y="1490" width="210" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-76" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="850" y="1635" width="120" height="60" as="geometry" />
@@ -202,6 +207,15 @@
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-81" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="780" y="1487" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-82" value="activity展示" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="573" y="1940" width="117" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-86" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1890" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-87" value="在打开小爱语音设置activity的过程，需要利用监听器根据scene_id来拉取小爱语音识别的内容即alies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="890" y="1875" width="210" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
