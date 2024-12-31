@@ -73,6 +73,15 @@
         <mxCell id="LGKpaFDRPndn7I6KlxH4-28" value="检查设备是否符合要求（did合法 并且 设备合法 并且 设备所属的房间合法）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="1100" width="240" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.996;entryY=0.328;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770.8055172413793" y="1060" as="sourcePoint" />
+            <mxPoint x="584.9999999999999" y="1209.8400000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770.84" y="1210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-29" value="SmartHomeDeviceManager.&lt;br&gt;getInstance().findSoloDevices();" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="1020" width="220" height="30" as="geometry" />
         </mxCell>
