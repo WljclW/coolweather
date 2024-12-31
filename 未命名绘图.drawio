@@ -96,6 +96,14 @@
         <mxCell id="LGKpaFDRPndn7I6KlxH4-30" value="tmpDevicesInHomeRoom.add(device)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="375" y="1190" width="210" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-31" target="LGKpaFDRPndn7I6KlxH4-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="480" y="1340" />
+              <mxPoint x="480" y="1340" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-31" value="SceneRouterFactory.getSceneBridge().&lt;br&gt;filterActionValueWithStdRuleId(tmpDevicesInHomeRoom,stdRuleId);" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="1280" width="390" height="40" as="geometry" />
         </mxCell>
@@ -107,6 +115,9 @@
               <mxPoint x="170" y="1180" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-44" value="数据转换、返回结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="422.5" y="1390" width="115" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
