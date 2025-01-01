@@ -4,22 +4,22 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-8" value="openCloudTriggerDialogWithParam" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-8" value="openCloudTriggerDialogWithParam" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="214" y="1560" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-13" target="LGKpaFDRPndn7I6KlxH4-62">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGKpaFDRPndn7I6KlxH4-13" target="LGKpaFDRPndn7I6KlxH4-62" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-13" value="openVoiceTriggerDialogWithParam" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-13" value="openVoiceTriggerDialogWithParam" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="212" y="1720" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-14" value="openTimerTriggerDialogWithParam" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-14" value="openTimerTriggerDialogWithParam" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="214" y="1630" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-16" value="filterConditionTriggerByTemplateV3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-16" value="filterConditionTriggerByTemplateV3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="890" width="200" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-17" target="LGKpaFDRPndn7I6KlxH4-23">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="LGKpaFDRPndn7I6KlxH4-17" target="LGKpaFDRPndn7I6KlxH4-23" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="310" y="930" />
@@ -27,52 +27,52 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-17" value="filterActionByTemplateV3" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-17" value="filterActionByTemplateV3" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="890" width="140" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-18" value="filterConditionTriggerByTemplateV3FromMiPhone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-18" value="filterConditionTriggerByTemplateV3FromMiPhone" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="435" y="890" width="270" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-19" value="filterActionByTemplateV3FromMiPhone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-19" value="filterActionByTemplateV3FromMiPhone" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="720" y="890" width="230" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-21" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;打开模板RN端主动调用&lt;br&gt;目的：筛选出当前家庭下满足要求(std_rule_id指定)的设备&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-21" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;打开模板RN端主动调用&lt;br&gt;目的：筛选出当前家庭下满足要求(std_rule_id指定)的设备&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="390" y="830" width="280" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=south;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-22" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;direction=south;" parent="1" vertex="1">
           <mxGeometry x="50" y="870" width="820" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-23" target="LGKpaFDRPndn7I6KlxH4-24">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGKpaFDRPndn7I6KlxH4-23" target="LGKpaFDRPndn7I6KlxH4-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-23" target="LGKpaFDRPndn7I6KlxH4-24">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGKpaFDRPndn7I6KlxH4-23" target="LGKpaFDRPndn7I6KlxH4-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-23" value="前置检查（检查是不是含有std_rule_id）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-23" value="前置检查（检查是不是含有std_rule_id）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="940" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-24" target="LGKpaFDRPndn7I6KlxH4-25">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGKpaFDRPndn7I6KlxH4-24" target="LGKpaFDRPndn7I6KlxH4-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-24" value="HomeManager.getInstance()&lt;br&gt;.getHomeDids(curHome.getId(),true)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-24" value="HomeManager.getInstance()&lt;br&gt;.getHomeDids(curHome.getId(),true)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="1020" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-25" value="检查设备是否符合要求（did合法 并且 设备合法 并且 设备所属的房间合法）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-25" value="检查设备是否符合要求（did合法 并且 设备合法 并且 设备所属的房间合法）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="1100" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-27" target="LGKpaFDRPndn7I6KlxH4-28">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGKpaFDRPndn7I6KlxH4-27" target="LGKpaFDRPndn7I6KlxH4-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-27" value="&lt;span style=&quot;text-align: left;&quot;&gt;CarManager.INSTANCE.getCarRooms()&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-27" value="&lt;span style=&quot;text-align: left;&quot;&gt;CarManager.INSTANCE.getCarRooms()&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="1020" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-28" target="LGKpaFDRPndn7I6KlxH4-30">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGKpaFDRPndn7I6KlxH4-28" target="LGKpaFDRPndn7I6KlxH4-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-28" value="检查设备是否符合要求（did合法 并且 设备合法 并且 设备所属的房间合法）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-28" value="检查设备是否符合要求（did合法 并且 设备合法 并且 设备所属的房间合法）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="1100" width="240" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.996;entryY=0.328;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.996;entryY=0.328;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="770.8055172413793" y="1060" as="sourcePoint" />
             <mxPoint x="584.9999999999999" y="1209.8400000000001" as="targetPoint" />
@@ -81,10 +81,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-29" value="SmartHomeDeviceManager.&lt;br&gt;getInstance().findSoloDevices();" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-29" value="SmartHomeDeviceManager.&lt;br&gt;getInstance().findSoloDevices();" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="660" y="1028" width="220" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-30" target="LGKpaFDRPndn7I6KlxH4-31">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-43" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGKpaFDRPndn7I6KlxH4-30" target="LGKpaFDRPndn7I6KlxH4-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="480" y="1260" />
@@ -92,10 +92,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-30" value="tmpDevicesInHomeRoom.add(device)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-30" value="tmpDevicesInHomeRoom.add(device)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="375" y="1190" width="210" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-31" target="LGKpaFDRPndn7I6KlxH4-44">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGKpaFDRPndn7I6KlxH4-31" target="LGKpaFDRPndn7I6KlxH4-44" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="480" y="1340" />
@@ -103,15 +103,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-31">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGKpaFDRPndn7I6KlxH4-31" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="850" y="1300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-31" value="SceneRouterFactory.getSceneBridge().&lt;br&gt;filterActionValueWithStdRuleId(tmpDevicesInHomeRoom,stdRuleId);" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-31" value="SceneRouterFactory.getSceneBridge().&lt;br&gt;filterActionValueWithStdRuleId(tmpDevicesInHomeRoom,stdRuleId);" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="1280" width="390" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-39" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-25">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-39" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="LGKpaFDRPndn7I6KlxH4-25" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="19.720000000000027" y="1180" as="sourcePoint" />
             <mxPoint x="375" y="1207.75" as="targetPoint" />
@@ -120,53 +120,53 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-44" value="数据转换、返回结果" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-44" value="数据转换、返回结果" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="422.5" y="1380" width="115" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-51" value="非空判断" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-51" value="非空判断" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="450" y="1240" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-54" value="devices，std_rule_id" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-54" value="devices，std_rule_id" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="710" y="1277" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-56" target="LGKpaFDRPndn7I6KlxH4-57">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGKpaFDRPndn7I6KlxH4-56" target="LGKpaFDRPndn7I6KlxH4-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-56" value="SpecSceneConfigRepository.INSTANCE&lt;br&gt;.getActionStdDid().get(d.did)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-56" value="SpecSceneConfigRepository.INSTANCE&lt;br&gt;.getActionStdDid().get(d.did)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="1280" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-57" value="SpecSceneHelper.Companion.findDeviceById(did)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-57" value="SpecSceneHelper.Companion.findDeviceById(did)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="960" y="1160" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-59" value="ConcurrentHashMap&amp;lt;String, CopyOnWriteArrayList&amp;lt;String&amp;gt;&amp;gt; stdActionsDid" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-59" value="ConcurrentHashMap&amp;lt;String, CopyOnWriteArrayList&amp;lt;String&amp;gt;&amp;gt; stdActionsDid" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1080" y="790" width="420" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-60" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-60" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="190" y="1570" width="20" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-62" target="LGKpaFDRPndn7I6KlxH4-66">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGKpaFDRPndn7I6KlxH4-62" target="LGKpaFDRPndn7I6KlxH4-66" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-72">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGKpaFDRPndn7I6KlxH4-72" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="627" y="1609.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-62" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;初始点开模板？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-62" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;初始选择？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="554" y="1697" width="146" height="75" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-66">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGKpaFDRPndn7I6KlxH4-66" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="627" y="1940" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-66" value="从参数中读取scene_id，alies；activity跳转" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-66" value="从参数中读取scene_id，alies；activity跳转" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="507" y="1830" width="240" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-70" target="LGKpaFDRPndn7I6KlxH4-74">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGKpaFDRPndn7I6KlxH4-70" target="LGKpaFDRPndn7I6KlxH4-74" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.488;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-77" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.017;entryY=0.617;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.488;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="703" y="1569.04" as="sourcePoint" />
             <mxPoint x="853.96" y="1664.02" as="targetPoint" />
@@ -178,55 +178,55 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-70" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;初次进行小爱&lt;br&gt;语音设置？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-70" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;初次进行小爱&lt;br&gt;语音设置？&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="554" y="1530" width="147" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-71" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-71" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="597.5" y="1780" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-62" target="LGKpaFDRPndn7I6KlxH4-72">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-73" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGKpaFDRPndn7I6KlxH4-62" target="LGKpaFDRPndn7I6KlxH4-72" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="627" y="1697" as="sourcePoint" />
             <mxPoint x="627" y="1609.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-72" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-72" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="597" y="1650" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-74" target="LGKpaFDRPndn7I6KlxH4-88">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-89" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGKpaFDRPndn7I6KlxH4-74" target="LGKpaFDRPndn7I6KlxH4-88" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-74" value="直接打开&quot;小爱语音设置&quot;activity" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-74" value="直接打开&quot;小爱语音设置&quot;activity" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="1490" width="210" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-76" target="LGKpaFDRPndn7I6KlxH4-90">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-91" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGKpaFDRPndn7I6KlxH4-76" target="LGKpaFDRPndn7I6KlxH4-90" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-76" value="需要将之前设置的alies、voicectrl_auth_scene_device传给小爱语音设置activity" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-76" value="需要将之前设置的alies、voicectrl_auth_scene_device传给小爱语音设置activity" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="840" y="1642.5" width="210" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-80" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-80" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="780" y="1642" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-81" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-81" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="780" y="1487" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-82" value="activity展示" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-82" value="activity展示" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="573" y="1940" width="117" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-86" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-86" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="630" y="1890" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-87" value="在打开小爱语音设置activity的过程，需要利用监听器根据scene_id来拉取小爱语音识别的内容即alies" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-87" value="在打开小爱语音设置activity的过程，需要利用监听器根据scene_id来拉取小爱语音识别的内容即alies" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="1875" width="210" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-88" value="设置信息确认后，需要回传的数据：alies、voicectrl_auth_scene_device" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-88" value="设置信息确认后，需要回传的数据：alies、voicectrl_auth_scene_device" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1185" y="1480" width="185" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-90" value="设置信息确认后，需要回传的数据：alies、voicectrl_auth_scene_device" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-90" value="设置信息确认后，需要回传的数据：alies、voicectrl_auth_scene_device" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1175" y="1635" width="205" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-92" value="...." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-92" value="...." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="210" y="1790" width="200" height="42" as="geometry" />
         </mxCell>
       </root>
