@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.2">
   <diagram name="第 1 页" id="qcWDD4BdnjukdQCVl4ap">
-    <mxGraphModel dx="1434" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -74,10 +74,10 @@
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.996;entryY=0.328;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="770.8055172413793" y="1060" as="sourcePoint" />
-            <mxPoint x="584.9999999999999" y="1209.8400000000001" as="targetPoint" />
+            <mxPoint x="770.8055172413793" y="1054" as="sourcePoint" />
+            <mxPoint x="584.9999999999999" y="1203.8400000000001" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="770.84" y="1210" />
+              <mxPoint x="770.84" y="1204" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -135,8 +135,11 @@
         <mxCell id="LGKpaFDRPndn7I6KlxH4-56" value="SpecSceneConfigRepository.INSTANCE&lt;br&gt;.getActionStdDid().get(d.did)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="850" y="1280" width="300" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Rje5jLsaLAEFEkgU2UK4-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-57" target="Rje5jLsaLAEFEkgU2UK4-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-57" value="SpecSceneHelper.Companion.findDeviceById(did)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="1160" width="300" height="40" as="geometry" />
+          <mxGeometry x="850" y="1140" width="300" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-59" value="ConcurrentHashMap&amp;lt;String, CopyOnWriteArrayList&amp;lt;String&amp;gt;&amp;gt; stdActionsDid" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1080" y="790" width="420" height="150" as="geometry" />
@@ -256,7 +259,25 @@
           <mxGeometry x="1311" y="1555" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Rje5jLsaLAEFEkgU2UK4-13" value="selected_conditions&lt;div&gt;selected_triggers&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="2012.5" width="120" height="40" as="geometry" />
+          <mxGeometry x="1260" y="1820" width="140" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Rje5jLsaLAEFEkgU2UK4-14" value="桥接方法" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="133" y="1673" width="67" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="Rje5jLsaLAEFEkgU2UK4-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rje5jLsaLAEFEkgU2UK4-15" target="Rje5jLsaLAEFEkgU2UK4-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rje5jLsaLAEFEkgU2UK4-15" value="stdActionsDid.get(d.did)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="1144" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rje5jLsaLAEFEkgU2UK4-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rje5jLsaLAEFEkgU2UK4-17" target="Rje5jLsaLAEFEkgU2UK4-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rje5jLsaLAEFEkgU2UK4-17" value="stdActionsOnline.get(saId);" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="1220" width="180" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="Rje5jLsaLAEFEkgU2UK4-19" value="buildA(aTplItem,d)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1270" y="1283.25" width="120" height="33.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
