@@ -215,9 +215,9 @@
           <mxGeometry x="573" y="1940" width="117" height="30" as="geometry" />
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-86" value="" style="shape=singleArrow;direction=west;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="630" y="1890" width="260" height="30" as="geometry" />
+          <mxGeometry x="630" y="1887.5" width="260" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="LGKpaFDRPndn7I6KlxH4-87" value="在打开小爱语音设置activity的过程，需要利用监听器根据scene_id来拉取小爱语音识别的内容即alies" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="LGKpaFDRPndn7I6KlxH4-87" value="在打开小爱语音设置activity的过程，需要利用监听器根据scene_id来拉取该场景选中的设备" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="1875" width="210" height="55" as="geometry" />
         </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-88" value="设置信息确认后，需要回传的数据：alies、voicectrl_auth_scene_device" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
