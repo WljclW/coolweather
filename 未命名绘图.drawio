@@ -57,6 +57,27 @@
         <mxCell id="LGKpaFDRPndn7I6KlxH4-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="LGKpaFDRPndn7I6KlxH4-23" target="LGKpaFDRPndn7I6KlxH4-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="Rje5jLsaLAEFEkgU2UK4-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-23" target="LGKpaFDRPndn7I6KlxH4-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Rje5jLsaLAEFEkgU2UK4-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="LGKpaFDRPndn7I6KlxH4-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="965" as="sourcePoint" />
+            <mxPoint x="769.9999999999995" y="1023" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="995" />
+              <mxPoint x="770" y="995" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Rje5jLsaLAEFEkgU2UK4-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LGKpaFDRPndn7I6KlxH4-23" target="LGKpaFDRPndn7I6KlxH4-44">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="955" />
+              <mxPoint x="20" y="1400" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LGKpaFDRPndn7I6KlxH4-23" value="前置检查（检查是不是含有std_rule_id）" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="940" width="140" height="30" as="geometry" />
         </mxCell>
@@ -302,6 +323,12 @@
               <mxPoint x="1530" y="1400" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Rje5jLsaLAEFEkgU2UK4-33" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="950" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Rje5jLsaLAEFEkgU2UK4-34" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="287" y="968" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
