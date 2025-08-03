@@ -1,0 +1,87 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
+  <diagram name="自动化灯控流程图" id="S1OQa5kopkz22QEKEbgw">
+    <mxGraphModel dx="1426" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6PXRjcksrkGP_CjEgnKE-1" value="已创建的自动化" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6PXRjcksrkGP_CjEgnKE-2" value="已添加的灯" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6PXRjcksrkGP_CjEgnKE-3" value="正常展示" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6PXRjcksrkGP_CjEgnKE-4" value="新添加灯" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6PXRjcksrkGP_CjEgnKE-5" value="未创建的自动化" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6PXRjcksrkGP_CjEgnKE-6" value="根据单灯所处的灯组的状态判断" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="300" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6PXRjcksrkGP_CjEgnKE-11" style="endArrow=block;" edge="1" parent="1" source="6PXRjcksrkGP_CjEgnKE-1" target="6PXRjcksrkGP_CjEgnKE-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6PXRjcksrkGP_CjEgnKE-12" style="endArrow=block;" edge="1" parent="1" source="6PXRjcksrkGP_CjEgnKE-2" target="6PXRjcksrkGP_CjEgnKE-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6PXRjcksrkGP_CjEgnKE-13" style="endArrow=block;" edge="1" parent="1" source="6PXRjcksrkGP_CjEgnKE-1" target="6PXRjcksrkGP_CjEgnKE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6PXRjcksrkGP_CjEgnKE-14" style="endArrow=block;" edge="1" parent="1" source="6PXRjcksrkGP_CjEgnKE-5" target="6PXRjcksrkGP_CjEgnKE-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6PXRjcksrkGP_CjEgnKE-15" style="endArrow=block;" edge="1" parent="1" source="6PXRjcksrkGP_CjEgnKE-4" target="6PXRjcksrkGP_CjEgnKE-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="6PXRjcksrkGP_CjEgnKE-25" value="单灯所属的所有灯组都设置为隐藏态？" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="440" width="260" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6PXRjcksrkGP_CjEgnKE-26" style="endArrow=block;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="493" y="341.97" as="sourcePoint" />
+            <mxPoint x="390" y="440" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="493" y="381.97" />
+              <mxPoint x="403" y="381.97" />
+              <mxPoint x="390" y="381.97" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6PXRjcksrkGP_CjEgnKE-27" style="endArrow=block;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="494.5" as="sourcePoint" />
+            <mxPoint x="630" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="630" y="495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6PXRjcksrkGP_CjEgnKE-31" style="endArrow=block;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="6PXRjcksrkGP_CjEgnKE-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="497" as="sourcePoint" />
+            <mxPoint x="150" y="542" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="150" y="495" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="6PXRjcksrkGP_CjEgnKE-32" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6PXRjcksrkGP_CjEgnKE-33" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="470" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6PXRjcksrkGP_CjEgnKE-34" value="单灯隐藏，不展示" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="542" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6PXRjcksrkGP_CjEgnKE-35" value="单灯不隐藏，正常展示" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="542" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
