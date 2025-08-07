@@ -1,9 +1,36 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.7">
-  <diagram name="第 1 页" id="qhzowJNQwA2y3HI1EWHP">
+  <diagram name="米家App客户端架构图" id="qhzowJNQwA2y3HI1EWHP">
     <mxGraphModel dx="1426" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-1" value="数据源层（Data Sources）&#xa;- Remote（API）、Local（Room/SP）等&#xa;- Retrofit / OkHttp / Room / DataStore" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#DAF0F7;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="620" width="800" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-2" value="Repository 层（仓库）&#xa;- 统一数据来源：网络、本地数据库、缓存等&#xa;- 对外隐藏数据源细节" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#E0F7DA;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="470" width="800" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-3" value="Use Case / Interactor 层&#xa;- 业务逻辑中间层，协调多个仓库数据&#xa;- 每个 use case 代表一个具体的业务动作" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#FFF9C4;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="800" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-4" value="ViewModel（视图模型层）&#xa;- 负责业务状态、数据转换、界面交互协调&#xa;- 使用 LiveData / Flow / StateFlow 等" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#FBE9E7;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="210" width="800" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-5" value="UI 层（View）&#xa;- Activity / Fragment / Compose UI&#xa;- XML / Jetpack Compose / SwiftUI" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#E1BEE7;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="160" y="50" width="800" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-6" style="endArrow=block;strokeWidth=2;" edge="1" parent="1" source="SkOOyBR_OrGC0wOGbPdk-1" target="SkOOyBR_OrGC0wOGbPdk-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-7" style="endArrow=block;strokeWidth=2;" edge="1" parent="1" source="SkOOyBR_OrGC0wOGbPdk-2" target="SkOOyBR_OrGC0wOGbPdk-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-8" style="endArrow=block;strokeWidth=2;" edge="1" parent="1" source="SkOOyBR_OrGC0wOGbPdk-3" target="SkOOyBR_OrGC0wOGbPdk-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-9" style="endArrow=block;strokeWidth=2;" edge="1" parent="1" source="SkOOyBR_OrGC0wOGbPdk-4" target="SkOOyBR_OrGC0wOGbPdk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
