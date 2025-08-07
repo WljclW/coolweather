@@ -79,6 +79,9 @@
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-27" value="SpecSceneEditViewModel编辑创建场景" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="160" y="245" width="230" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-28" value="com/xiaomi/smarthome/specscene/util各种工具类" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="390" width="310" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
