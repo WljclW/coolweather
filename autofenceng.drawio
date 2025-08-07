@@ -49,6 +49,9 @@
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-17" value="TimerTplv2Provider设备定时列表仓储类" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="710" y="490" width="230" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-18" value="SpecSceneConfigOperation模板数据管理类" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="520" width="240" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
