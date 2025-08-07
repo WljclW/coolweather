@@ -55,6 +55,9 @@
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-19" value="SceneManagerV2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="730" y="540" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-20" value="EntranceDisplayDataSource，C700视觉大模型感知数据源" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="475" width="175" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
