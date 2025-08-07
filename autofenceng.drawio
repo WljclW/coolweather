@@ -43,6 +43,12 @@
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-15" value="&lt;div style=&quot;white-space: pre;&quot;&gt;SpecSceneConfigRepository自动化配置信息仓储&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="270" y="520" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-16" value="&lt;div style=&quot;white-space: pre;&quot;&gt;SceneDataRepository场景数据列表仓储&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="540" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-17" value="TimerTplv2Provider设备定时列表仓储类" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="490" width="230" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
