@@ -94,6 +94,12 @@
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;UI 层（View）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="90" width="115" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-33" value="SceneListViewModel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="275" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-34" value="MultiSwitchViewModel批量控制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="220" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
