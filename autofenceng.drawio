@@ -38,7 +38,10 @@
           <mxGeometry x="40" y="505" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-13" value="&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only&quot;&gt;Tplv2Provider&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline&quot;&gt;标准化&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only&quot;&gt;数据解析存储&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="490" width="180" height="30" as="geometry" />
+          <mxGeometry x="180" y="490" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-15" value="&lt;div style=&quot;white-space: pre;&quot;&gt;SpecSceneConfigRepository自动化配置信息仓储&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="520" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
