@@ -37,7 +37,7 @@
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Repository 层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="505" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkOOyBR_OrGC0wOGbPdk-13" value="&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only&quot;&gt;Tplv2Provider&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline&quot;&gt;标准化&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only&quot;&gt;数据解析&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-13" value="&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only&quot;&gt;Tplv2Provider&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline&quot;&gt;标准化&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only&quot;&gt;数据解析存储&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="490" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
