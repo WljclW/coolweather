@@ -67,6 +67,12 @@
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ViewModel（视图模型层）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="245" width="120" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-24" value="SceneAddMenuPopupWindow自定义抽屉弹窗" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="345" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-25" value="SceneTipPopupWindow自定义tips弹窗" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="680" y="370" width="220" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
