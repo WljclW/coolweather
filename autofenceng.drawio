@@ -54,9 +54,6 @@
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;UI 层（View）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="67.25" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkOOyBR_OrGC0wOGbPdk-37" value="DisplayListLevel23ViewModel视觉大模型" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="720" y="270" width="240" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="fMZOLJ-7lnfKRuvi4cig-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;手机联动数据接受、处理模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="175" y="498" width="270" height="51" as="geometry" />
         </mxCell>
@@ -85,7 +82,7 @@
           <mxGeometry x="202" y="230" width="148" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aQULPjQDu08E6a-2-mzT-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;自动化列表视图模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="202" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="730" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aQULPjQDu08E6a-2-mzT-4" value="&lt;div class=&quot;message-container&quot;&gt;&lt;div data-badge-count=&quot;294&quot; data-position=&quot;296&quot; class=&quot;js-message-item message-item message-self message-is-p2p text-message&quot; id=&quot;7535846296423301228&quot;&gt;&lt;div style=&quot;display: contents;&quot; data-im-copy-permission-invalid-toast=&quot;保密模式已开启，禁止复制、转发消息&quot; data-im-copy-permission-invalid=&quot;false&quot;&gt;&lt;div class=&quot;message-right&quot;&gt;&lt;div class=&quot;message-section&quot;&gt;&lt;div id=&quot;animation-anchor-7535846296423301228&quot; data-element=&quot;message-section-left&quot; class=&quot;MessageContextMenuTrigger MessageContextMenuTrigger--scene-chatSelfMessage message-section-left message-section-newFileCard&quot;&gt;&lt;div data-im-copy-permission-invalid-toast=&quot;&quot; data-im-copy-permission-invalid=&quot;false&quot; class=&quot;undefined MessageActionPermissionWrapper&quot;&gt;&lt;div class=&quot;message-content-container&quot;&gt;&lt;div class=&quot;catch-resize-observer-dom message-content&quot;&gt;&lt;div data-im-copy-permission-invalid-toast=&quot;&quot; data-im-copy-permission-invalid=&quot;false&quot; class=&quot;message-text MessageActionPermissionWrapper&quot; role=&quot;text-message&quot;&gt;&lt;div class=&quot;limit-height-container&quot;&gt;&lt;div class=&quot;wrapper&quot;&gt;&lt;div class=&quot;&quot;&gt;&lt;pre&gt;&lt;div class=&quot;richTextContainer&quot;&gt;&lt;span style=&quot;font-family: Helvetica; white-space: normal;&quot;&gt;自动化场景重要信息视图模型&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;message-section-right&quot;&gt;&lt;div class=&quot;message-flag&quot; data-lock-ui=&quot;true&quot;&gt;&lt;/div&gt;&lt;div data-lock-ui=&quot;true&quot;&gt;&lt;/div&gt;&lt;div&gt;&lt;div data-lock-ui=&quot;true&quot; class=&quot;toolbar-panel&quot;&gt;&lt;div class=&quot;toolbar-item praise&quot;&gt;&lt;span class=&quot;universe-icon&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;toolbar-item reply&quot;&gt;&lt;span class=&quot;universe-icon toolbar-item-icon&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;toolbar-item&quot;&gt;&lt;span class=&quot;universe-icon toolbar-item-icon&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;toolbar-item reply&quot;&gt;&lt;span class=&quot;universe-icon toolbar-item-icon&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;toolbar-item more&quot;&gt;&lt;span class=&quot;universe-icon toolbar-item-icon&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;message-meta message-meta__rit&quot;&gt;&lt;div class=&quot;message-meta-nowrap&quot;&gt;&lt;/div&gt;&lt;div class=&quot;message-meta-wrap&quot;&gt;&lt;/div&gt;&lt;div class=&quot;message-meta-wrap&quot;&gt;&lt;/div&gt;&lt;div class=&quot;message-meta-nowrap&quot;&gt;&lt;/div&gt;&lt;div class=&quot;message-meta-nowrap multi-select-show&quot;&gt;&lt;/div&gt;&lt;div class=&quot;message-meta-wrap&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;message-bottomDetector&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="470" y="780" width="240" height="40" as="geometry" />
@@ -175,7 +172,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8v2z8wAU9Ri_y-NKLIh5-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;批量控制视图模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="310" width="120" height="60" as="geometry" />
+          <mxGeometry x="202" y="310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8v2z8wAU9Ri_y-NKLIh5-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;摄像机AI功能视图模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="567" y="230" width="120" height="60" as="geometry" />
