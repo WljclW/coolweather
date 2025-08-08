@@ -64,7 +64,7 @@
           <mxGeometry x="200" y="-98" width="720" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hxrM_ZIOwH_heJDh1txf-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Activity层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="182.25" y="-108" width="130" height="30" as="geometry" />
+          <mxGeometry x="182.25" y="-104" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-nMaKqqqUXfz14bnNVan-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;首页创建自动化&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="279" y="-86" width="106" height="40" as="geometry" />
@@ -85,7 +85,7 @@
           <mxGeometry x="200" y="-11" width="720" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-nMaKqqqUXfz14bnNVan-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;UI封装层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="177.25" y="-21" width="130" height="30" as="geometry" />
+          <mxGeometry x="177.25" y="-17" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-nMaKqqqUXfz14bnNVan-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;TCA列表UI&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="279" y="2" width="106" height="40" as="geometry" />
@@ -103,7 +103,7 @@
           <mxGeometry x="200" y="75" width="720" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TgKBaaVrx3N6xKRGPkNs-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;Adapter数据封装层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="188" y="70" width="190" height="30" as="geometry" />
+          <mxGeometry x="183" y="70" width="190" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TgKBaaVrx3N6xKRGPkNs-3" style="endArrow=block;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -136,7 +136,7 @@
           <mxGeometry x="195" y="438" width="720" height="62" as="geometry" />
         </mxCell>
         <mxCell id="lZrXNuSzlimmHGtNIMtT-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;数据附加处理层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="201" y="430" width="130" height="30" as="geometry" />
+          <mxGeometry x="199" y="434" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lZrXNuSzlimmHGtNIMtT-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only text-with-abbreviation text-with-abbreviation-bottomline windows-bottomline&quot;&gt;设备TC标准化&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot; class=&quot;text-only&quot;&gt;数据解析存储模块&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="233" y="460" width="237" height="30" as="geometry" />
@@ -163,7 +163,7 @@
           <mxGeometry x="721" y="519" width="209" height="111" as="geometry" />
         </mxCell>
         <mxCell id="6q_zLCBnmlWymqD_xBxj-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;其他封装&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="700" y="519" width="130" height="30" as="geometry" />
+          <mxGeometry x="700" y="515" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6q_zLCBnmlWymqD_xBxj-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;入口控制&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="860" y="545" width="60" height="34" as="geometry" />
