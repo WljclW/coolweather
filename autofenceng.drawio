@@ -46,7 +46,7 @@
           <mxGeometry x="52" y="519" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ViewModel层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="47" y="280" width="120" height="30" as="geometry" />
+          <mxGeometry x="44" y="280" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;UI 层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="80" width="115" height="30" as="geometry" />
