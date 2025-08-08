@@ -13,7 +13,7 @@
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-3" value="Use Case / Interactor 层&#xa;- 业务逻辑中间层，协调多个仓库数据&#xa;- 每个 use case 代表一个具体的业务动作" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#FFF9C4;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="160" y="430" width="800" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="SkOOyBR_OrGC0wOGbPdk-4" value="&#xa;- 负责业务状态、数据转换、界面交互协调&#xa;- 使用 LiveData / Flow / StateFlow 等" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#FBE9E7;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-4" value="" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#FBE9E7;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="160" y="210" width="800" height="170" as="geometry" />
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-5" value="" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#E1BEE7;strokeColor=#000000;" parent="1" vertex="1">
@@ -30,8 +30,11 @@
             <mxPoint x="559.9999999999998" y="524" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="SkOOyBR_OrGC0wOGbPdk-9" style="endArrow=block;strokeWidth=2;" parent="1" source="SkOOyBR_OrGC0wOGbPdk-4" target="SkOOyBR_OrGC0wOGbPdk-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-9" style="endArrow=block;strokeWidth=2;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="551.9999999999998" y="210" as="sourcePoint" />
+            <mxPoint x="551.9999999999998" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Data Sources层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="30" y="1029" width="130" height="30" as="geometry" />
@@ -172,7 +175,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8v2z8wAU9Ri_y-NKLIh5-1" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;批量控制视图模型&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="430" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="567" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8v2z8wAU9Ri_y-NKLIh5-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;摄像机AI功能视图模型&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="220" width="120" height="60" as="geometry" />
