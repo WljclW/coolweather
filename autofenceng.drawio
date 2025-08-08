@@ -123,6 +123,9 @@
         <mxCell id="aQULPjQDu08E6a-2-mzT-11" value="devicewrapper模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="687" y="560" width="180" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="aQULPjQDu08E6a-2-mzT-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;设备快捷控制UI&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
