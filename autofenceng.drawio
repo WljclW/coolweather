@@ -81,9 +81,6 @@
         <mxCell id="aQULPjQDu08E6a-2-mzT-10" value="配置数据等实体类本地对应模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="272" y="970" width="180" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="aQULPjQDu08E6a-2-mzT-11" value="devicewrapper模块" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="630" width="180" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="aQULPjQDu08E6a-2-mzT-13" value="&lt;div style=&quot;white-space: pre;&quot;&gt;从柏拉图平台获取的关于设备的一些文案&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="174" y="810" width="240" height="30" as="geometry" />
         </mxCell>
