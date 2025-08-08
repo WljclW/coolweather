@@ -196,12 +196,12 @@
           <mxGeometry x="760" y="585" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4hoV_DuJC81oLydT5qow-1" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;API层&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1140" y="-208" width="140" height="250" as="geometry" />
+          <mxGeometry x="1030" y="-220" width="140" height="168" as="geometry" />
         </mxCell>
-        <mxCell id="4hoV_DuJC81oLydT5qow-3" style="endArrow=block;strokeWidth=2;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" target="4hoV_DuJC81oLydT5qow-1">
+        <mxCell id="4hoV_DuJC81oLydT5qow-3" style="endArrow=block;strokeWidth=2;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="340" y="-86" as="sourcePoint" />
-            <mxPoint x="340" y="-146" as="targetPoint" />
+            <mxPoint x="1030" y="-150" as="targetPoint" />
             <Array as="points">
               <mxPoint x="340" y="-150" />
             </Array>
