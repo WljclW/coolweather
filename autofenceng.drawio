@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Data Sources层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="940" width="130" height="30" as="geometry" />
+          <mxGeometry x="30" y="900" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Repository 层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="42" y="742" width="120" height="30" as="geometry" />
