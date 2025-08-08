@@ -17,7 +17,7 @@
           <mxGeometry x="160" y="210" width="800" height="170" as="geometry" />
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-5" value="" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#E1BEE7;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="160" y="-20" width="800" height="170" as="geometry" />
+          <mxGeometry x="160" y="-70" width="800" height="220" as="geometry" />
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-6" style="endArrow=block;strokeWidth=2;" parent="1" source="SkOOyBR_OrGC0wOGbPdk-1" target="SkOOyBR_OrGC0wOGbPdk-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -64,7 +64,7 @@
           <mxGeometry x="402.5" y="140" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fMZOLJ-7lnfKRuvi4cig-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;设备TC列表UI&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="330" y="60" width="130" height="50" as="geometry" />
+          <mxGeometry x="440" y="90" width="130" height="50" as="geometry" />
         </mxCell>
         <mxCell id="fMZOLJ-7lnfKRuvi4cig-3" value="其他TCA创建的UI" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="710" y="140" width="130" height="50" as="geometry" />
@@ -130,7 +130,7 @@
           <mxGeometry x="174" y="810" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hxrM_ZIOwH_heJDh1txf-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="-10" width="710" height="60" as="geometry" />
+          <mxGeometry x="200" y="-60" width="720" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
