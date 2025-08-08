@@ -213,7 +213,7 @@
         <mxCell id="4BhIBh2jKuIIbUIUIokb-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="442.5" y="519" width="225" height="111" as="geometry" />
         </mxCell>
-        <mxCell id="4BhIBh2jKuIIbUIUIokb-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;数据处理封装&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="4BhIBh2jKuIIbUIUIokb-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;数据处理模块&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="442.5" y="516" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4BhIBh2jKuIIbUIUIokb-3" value="&lt;span style=&quot;font-size: 14px; white-space: pre;&quot;&gt;scene相关公用操作模块&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
