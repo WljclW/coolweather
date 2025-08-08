@@ -42,9 +42,6 @@
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-19" value="SceneManagerV2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="730" y="740" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SkOOyBR_OrGC0wOGbPdk-20" value="EntranceDisplayDataSource，C700视觉大模型感知数据源" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="440" y="675" width="175" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Interactor 层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="519" width="110" height="30" as="geometry" />
         </mxCell>
@@ -110,6 +107,9 @@
         </mxCell>
         <mxCell id="aQULPjQDu08E6a-2-mzT-5" value="设备定时列表仓储模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="770" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="aQULPjQDu08E6a-2-mzT-6" value="C700视觉大模型感知数据源" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="680" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
