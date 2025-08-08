@@ -225,6 +225,9 @@
         <mxCell id="4BhIBh2jKuIIbUIUIokb-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;权限检查、设置模块&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="574.5" y="590" width="105.5" height="35" as="geometry" />
         </mxCell>
+        <mxCell id="4BhIBh2jKuIIbUIUIokb-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="723.5" y="516" width="225" height="111" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
