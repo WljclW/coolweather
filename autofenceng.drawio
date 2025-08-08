@@ -11,7 +11,7 @@
           <mxGeometry x="160" y="670" width="800" height="170" as="geometry" />
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-3" value="Use Case / Interactor 层&#xa;- 业务逻辑中间层，协调多个仓库数据&#xa;- 每个 use case 代表一个具体的业务动作" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#FFF9C4;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="160" y="340" width="800" height="100" as="geometry" />
+          <mxGeometry x="160" y="430" width="800" height="170" as="geometry" />
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-4" value="&#xa;- 负责业务状态、数据转换、界面交互协调&#xa;- 使用 LiveData / Flow / StateFlow 等" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#FBE9E7;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="160" y="210" width="800" height="170" as="geometry" />
@@ -25,8 +25,10 @@
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-7" style="endArrow=block;strokeWidth=2;" parent="1" source="SkOOyBR_OrGC0wOGbPdk-2" target="SkOOyBR_OrGC0wOGbPdk-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SkOOyBR_OrGC0wOGbPdk-8" style="endArrow=block;strokeWidth=2;" parent="1" source="SkOOyBR_OrGC0wOGbPdk-3" target="SkOOyBR_OrGC0wOGbPdk-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-8" style="endArrow=block;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="SkOOyBR_OrGC0wOGbPdk-3" target="SkOOyBR_OrGC0wOGbPdk-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="559.9999999999998" y="524" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-9" style="endArrow=block;strokeWidth=2;" parent="1" source="SkOOyBR_OrGC0wOGbPdk-4" target="SkOOyBR_OrGC0wOGbPdk-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -59,19 +61,16 @@
           <mxGeometry x="440" y="675" width="175" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Interactor 层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="375" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SkOOyBR_OrGC0wOGbPdk-22" value="MSDataSource批量开关数据源" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="190" y="350" width="170" height="30" as="geometry" />
+          <mxGeometry x="40" y="519" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;ViewModel（视图模型层）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="245" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-24" value="SceneAddMenuPopupWindow自定义抽屉弹窗" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="680" y="345" width="260" height="30" as="geometry" />
+          <mxGeometry x="680" y="489" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-25" value="SceneTipPopupWindow自定义tips弹窗" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="680" y="370" width="220" height="30" as="geometry" />
+          <mxGeometry x="680" y="514" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-26" value="各种xxxAdapter" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="220" width="110" height="30" as="geometry" />
@@ -80,7 +79,7 @@
           <mxGeometry x="160" y="245" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-28" value="com/xiaomi/smarthome/specscene/util各种工具类" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="670" y="390" width="310" height="30" as="geometry" />
+          <mxGeometry x="660" y="544" width="310" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-32" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;UI 层（View）&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="90" width="115" height="30" as="geometry" />
@@ -90,9 +89,6 @@
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-34" value="MultiSwitchViewModel批量控制" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="720" y="220" width="180" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SkOOyBR_OrGC0wOGbPdk-35" value="MIUIPhoneTriggerBroadcastReceiver等广播接收和处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="190" y="375" width="240" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-36" value="CameraAiViewModel" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="750" y="245" width="60" height="30" as="geometry" />
@@ -108,6 +104,12 @@
         </mxCell>
         <mxCell id="fMZOLJ-7lnfKRuvi4cig-3" value="其他TCA创建的UI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="680" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="fMZOLJ-7lnfKRuvi4cig-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;MIUIPhoneTriggerBroadcastReceiver等广播接收和处理&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="498" width="270" height="51" as="geometry" />
+        </mxCell>
+        <mxCell id="fMZOLJ-7lnfKRuvi4cig-7" value="MSDataSource批量开关数据源附加处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="438" width="265" height="52" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
