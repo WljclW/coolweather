@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="28.0.7">
   <diagram name="米家App客户端架构图" id="qhzowJNQwA2y3HI1EWHP">
-    <mxGraphModel dx="905" dy="1901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="972" dy="1901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -10,7 +10,7 @@
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-2" value="&#xa;- 统一数据来源：网络、本地数据库、缓存等&#xa;- 对外隐藏数据源细节&#xa;" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#E0F7DA;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="160" y="670" width="800" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="SkOOyBR_OrGC0wOGbPdk-3" value="Use Case / Interactor 层&#xa;- 业务逻辑中间层，协调多个仓库数据&#xa;- 每个 use case 代表一个具体的业务动作" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#FFF9C4;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="SkOOyBR_OrGC0wOGbPdk-3" value="" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#FFF9C4;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="160" y="430" width="800" height="170" as="geometry" />
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-4" value="" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#FBE9E7;strokeColor=#000000;" parent="1" vertex="1">
@@ -58,7 +58,7 @@
           <mxGeometry x="175" y="498" width="270" height="51" as="geometry" />
         </mxCell>
         <mxCell id="fMZOLJ-7lnfKRuvi4cig-7" value="MSDataSource批量开关数据源附加处理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="175" y="438" width="265" height="52" as="geometry" />
+          <mxGeometry x="7" y="600" width="265" height="42" as="geometry" />
         </mxCell>
         <mxCell id="fMZOLJ-7lnfKRuvi4cig-8" value="SceneAddMenuPopupWindow等自定义弹窗模块&lt;br&gt;SceneTipPopupWindow自定义tips弹窗" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="650" y="434" width="250" height="66" as="geometry" />
