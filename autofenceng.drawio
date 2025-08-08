@@ -136,25 +136,25 @@
           <mxGeometry x="810" y="-87" width="100" height="39" as="geometry" />
         </mxCell>
         <mxCell id="-nMaKqqqUXfz14bnNVan-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="-18" width="720" height="60" as="geometry" />
+          <mxGeometry x="200" y="-11" width="720" height="60" as="geometry" />
         </mxCell>
         <mxCell id="-nMaKqqqUXfz14bnNVan-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;UI封装层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="177.25" y="-28" width="130" height="30" as="geometry" />
+          <mxGeometry x="177.25" y="-21" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="-nMaKqqqUXfz14bnNVan-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;TCA列表UI&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="279" y="-5" width="106" height="40" as="geometry" />
+          <mxGeometry x="279" y="2" width="106" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SYxk4l4ObEIak8KzrV4h-1" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;设备TC列表UI&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="402.5" y="-5" width="106" height="40" as="geometry" />
+          <mxGeometry x="402.5" y="2" width="106" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SYxk4l4ObEIak8KzrV4h-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;设备快捷控制UI&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="532.5" y="-5" width="106" height="40" as="geometry" />
+          <mxGeometry x="532.5" y="2" width="106" height="40" as="geometry" />
         </mxCell>
         <mxCell id="SYxk4l4ObEIak8KzrV4h-3" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;其他复杂的UI中间层封装&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="660" y="-5" width="170" height="40" as="geometry" />
+          <mxGeometry x="660" y="2" width="170" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TgKBaaVrx3N6xKRGPkNs-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="195" y="80" width="720" height="60" as="geometry" />
+          <mxGeometry x="200" y="75" width="720" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
