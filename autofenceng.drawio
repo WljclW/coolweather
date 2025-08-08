@@ -190,16 +190,16 @@
           <mxGeometry x="620" y="519" width="290" height="71" as="geometry" />
         </mxCell>
         <mxCell id="6q_zLCBnmlWymqD_xBxj-7" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;其他封装&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="612" y="516" width="130" height="30" as="geometry" />
+          <mxGeometry x="599" y="516" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6q_zLCBnmlWymqD_xBxj-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;权限检查、设置模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="650" y="546" width="90" height="34" as="geometry" />
+          <mxGeometry x="643" y="546" width="90" height="34" as="geometry" />
         </mxCell>
         <mxCell id="6q_zLCBnmlWymqD_xBxj-9" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;工具类模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750.75" y="546" width="90" height="34" as="geometry" />
+          <mxGeometry x="743" y="546" width="90" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="6q_zLCBnmlWymqD_xBxj-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;入口控制检查模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="850" y="546" width="90" height="34" as="geometry" />
+        <mxCell id="6q_zLCBnmlWymqD_xBxj-10" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;入口控制&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="845" y="546" width="60" height="34" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
