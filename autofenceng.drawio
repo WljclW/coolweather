@@ -229,7 +229,10 @@
           <mxGeometry x="400.5" y="95" width="132" height="35" as="geometry" />
         </mxCell>
         <mxCell id="4BhIBh2jKuIIbUIUIokb-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;设备TC列表adapter&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="548" y="95" width="132" height="35" as="geometry" />
+          <mxGeometry x="555" y="95" width="132" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="4BhIBh2jKuIIbUIUIokb-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;其他的多种adapter……&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="713.75" y="95" width="132" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
