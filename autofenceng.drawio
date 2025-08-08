@@ -213,8 +213,8 @@
         <mxCell id="4BhIBh2jKuIIbUIUIokb-2" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;公用处理模块&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="442.5" y="516" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4BhIBh2jKuIIbUIUIokb-3" value="&lt;span style=&quot;font-size: 14px; white-space: pre;&quot;&gt;scene相关公用操作模块&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="466" y="549" width="157" height="33" as="geometry" />
+        <mxCell id="4BhIBh2jKuIIbUIUIokb-3" value="&lt;span style=&quot;font-size: 14px; white-space: pre;&quot;&gt;scene相关公用操作封装模块&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="466" y="550" width="184" height="32" as="geometry" />
         </mxCell>
         <mxCell id="4BhIBh2jKuIIbUIUIokb-4" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;工具类模块&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="590" width="106" height="35" as="geometry" />
