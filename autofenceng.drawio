@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-1" value="数据源层（Data Sources）&#xa;- Remote（API）、Local（Room/SP）等&#xa;- Retrofit / OkHttp / Room / DataStore" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#DAF0F7;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="160" y="950" width="800" height="170" as="geometry" />
+          <mxGeometry x="160" y="870" width="800" height="170" as="geometry" />
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-2" value="&#xa;" style="shape=rectangle;whiteSpace=wrap;rounded=1;fillColor=#E0F7DA;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="160" y="670" width="800" height="140" as="geometry" />
@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Data Sources层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="1029" width="130" height="30" as="geometry" />
+          <mxGeometry x="30" y="940" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Repository 层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="742" width="120" height="30" as="geometry" />
