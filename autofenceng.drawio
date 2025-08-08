@@ -85,7 +85,7 @@
           <mxGeometry x="175" y="720" width="255" height="45" as="geometry" />
         </mxCell>
         <mxCell id="aQULPjQDu08E6a-2-mzT-2" value="自动化编辑创建视图模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="215" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="220" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="aQULPjQDu08E6a-2-mzT-3" value="自动化列表视图模型" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="290" width="120" height="60" as="geometry" />
