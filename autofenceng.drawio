@@ -34,16 +34,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-10" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Data Sources层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="985" width="130" height="30" as="geometry" />
+          <mxGeometry x="30" y="1029" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-11" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Repository 层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="705" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SkOOyBR_OrGC0wOGbPdk-17" value="TimerTplv2Provider设备定时列表仓储类" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="710" y="690" width="230" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SkOOyBR_OrGC0wOGbPdk-18" value="SpecSceneConfigOperation模板数据管理类" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="710" y="720" width="240" height="30" as="geometry" />
+          <mxGeometry x="40" y="742" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SkOOyBR_OrGC0wOGbPdk-19" value="SceneManagerV2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="730" y="740" width="60" height="30" as="geometry" />
@@ -113,6 +107,9 @@
         </mxCell>
         <mxCell id="aQULPjQDu08E6a-2-mzT-4" value="&lt;div class=&quot;message-container&quot;&gt;&lt;div data-badge-count=&quot;294&quot; data-position=&quot;296&quot; class=&quot;js-message-item message-item message-self message-is-p2p text-message&quot; id=&quot;7535846296423301228&quot;&gt;&lt;div style=&quot;display: contents;&quot; data-im-copy-permission-invalid-toast=&quot;保密模式已开启，禁止复制、转发消息&quot; data-im-copy-permission-invalid=&quot;false&quot;&gt;&lt;div class=&quot;message-right&quot;&gt;&lt;div class=&quot;message-section&quot;&gt;&lt;div id=&quot;animation-anchor-7535846296423301228&quot; data-element=&quot;message-section-left&quot; class=&quot;MessageContextMenuTrigger MessageContextMenuTrigger--scene-chatSelfMessage message-section-left message-section-newFileCard&quot;&gt;&lt;div data-im-copy-permission-invalid-toast=&quot;&quot; data-im-copy-permission-invalid=&quot;false&quot; class=&quot;undefined MessageActionPermissionWrapper&quot;&gt;&lt;div class=&quot;message-content-container&quot;&gt;&lt;div class=&quot;catch-resize-observer-dom message-content&quot;&gt;&lt;div data-im-copy-permission-invalid-toast=&quot;&quot; data-im-copy-permission-invalid=&quot;false&quot; class=&quot;message-text MessageActionPermissionWrapper&quot; role=&quot;text-message&quot;&gt;&lt;div class=&quot;limit-height-container&quot;&gt;&lt;div class=&quot;wrapper&quot;&gt;&lt;div class=&quot;&quot;&gt;&lt;pre&gt;&lt;div class=&quot;richTextContainer&quot;&gt;&lt;span style=&quot;font-family: Helvetica; white-space: normal;&quot;&gt;自动化场景重要信息视图模型&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;message-section-right&quot;&gt;&lt;div class=&quot;message-flag&quot; data-lock-ui=&quot;true&quot;&gt;&lt;/div&gt;&lt;div data-lock-ui=&quot;true&quot;&gt;&lt;/div&gt;&lt;div&gt;&lt;div data-lock-ui=&quot;true&quot; class=&quot;toolbar-panel&quot;&gt;&lt;div class=&quot;toolbar-item praise&quot;&gt;&lt;span class=&quot;universe-icon&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;toolbar-item reply&quot;&gt;&lt;span class=&quot;universe-icon toolbar-item-icon&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;toolbar-item&quot;&gt;&lt;span class=&quot;universe-icon toolbar-item-icon&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;toolbar-item reply&quot;&gt;&lt;span class=&quot;universe-icon toolbar-item-icon&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;toolbar-item more&quot;&gt;&lt;span class=&quot;universe-icon toolbar-item-icon&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;message-meta message-meta__rit&quot;&gt;&lt;div class=&quot;message-meta-nowrap&quot;&gt;&lt;/div&gt;&lt;div class=&quot;message-meta-wrap&quot;&gt;&lt;/div&gt;&lt;div class=&quot;message-meta-wrap&quot;&gt;&lt;/div&gt;&lt;div class=&quot;message-meta-nowrap&quot;&gt;&lt;/div&gt;&lt;div class=&quot;message-meta-nowrap multi-select-show&quot;&gt;&lt;/div&gt;&lt;div class=&quot;message-meta-wrap&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;message-bottomDetector&quot;&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="780" width="240" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aQULPjQDu08E6a-2-mzT-5" value="设备定时列表仓储模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="770" width="130" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
