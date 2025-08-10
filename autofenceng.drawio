@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="28.0.7">
   <diagram name="米家App客户端架构图" id="qhzowJNQwA2y3HI1EWHP">
-    <mxGraphModel dx="1183" dy="2040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1271" dy="2040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -213,8 +213,8 @@
         <mxCell id="4BhIBh2jKuIIbUIUIokb-5" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;权限检查、设置模块&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="574.5" y="590" width="105.5" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="4BhIBh2jKuIIbUIUIokb-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Data Sources层&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="1040" y="830" width="130" height="30" as="geometry" />
+        <mxCell id="4BhIBh2jKuIIbUIUIokb-7" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b&gt;Data Sources层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1030" y="825" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4BhIBh2jKuIIbUIUIokb-8" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;米家自动化api模块&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1040" y="200" width="120" height="60" as="geometry" />
