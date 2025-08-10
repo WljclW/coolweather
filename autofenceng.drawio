@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.66 Safari/537.36" version="28.0.7">
   <diagram name="米家App客户端架构图" id="qhzowJNQwA2y3HI1EWHP">
-    <mxGraphModel dx="1271" dy="2040" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1502" dy="2198" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -183,15 +183,6 @@
         <mxCell id="4hoV_DuJC81oLydT5qow-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1030" y="-220" width="140" height="1050" as="geometry" />
         </mxCell>
-        <mxCell id="4hoV_DuJC81oLydT5qow-3" style="endArrow=block;strokeWidth=2;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="340" y="-86" as="sourcePoint" />
-            <mxPoint x="1030" y="-150" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="340" y="-150" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="4hoV_DuJC81oLydT5qow-5" style="endArrow=block;strokeWidth=2;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1030" y="765.5" as="sourcePoint" />
@@ -233,6 +224,12 @@
         </mxCell>
         <mxCell id="4BhIBh2jKuIIbUIUIokb-13" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;其他的多种adapter……&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="713.75" y="95" width="132" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="7YulDb2MXxVxia7mZopk-1" style="endArrow=block;strokeWidth=2;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hxrM_ZIOwH_heJDh1txf-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1036" y="-68" as="targetPoint" />
+            <mxPoint x="940" y="-72" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
