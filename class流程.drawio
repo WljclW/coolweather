@@ -19,6 +19,9 @@
         <mxCell id="bBRKi4XoIYZRVLOm80eH-4" value="TcaDetailSelectPage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="284" y="440" width="130" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="bBRKi4XoIYZRVLOm80eH-5" value="TcaDetailOptionAdapter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="555" width="140" height="55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
