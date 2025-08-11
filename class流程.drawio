@@ -11,10 +11,13 @@
           <mxGeometry x="280" y="210" width="150" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bBRKi4XoIYZRVLOm80eH-2" value="TriggerDetailSelectPage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="330" width="140" height="50" as="geometry" />
+          <mxGeometry x="100" y="330" width="140" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bBRKi4XoIYZRVLOm80eH-3" value="ConditionDetailSelectPage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="330" width="140" height="50" as="geometry" />
+          <mxGeometry x="460" y="330" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bBRKi4XoIYZRVLOm80eH-4" value="TcaDetailSelectPage" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="440" width="130" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
