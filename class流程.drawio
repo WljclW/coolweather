@@ -43,6 +43,12 @@
         <mxCell id="bBRKi4XoIYZRVLOm80eH-9" value="关键信息：List&amp;lt;DataTransformer&amp;lt;T, S&amp;gt;&amp;gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="700" width="310" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bBRKi4XoIYZRVLOm80eH-10" value="DeviceTriggerUI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="860" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bBRKi4XoIYZRVLOm80eH-11" value="DeviceConditionUI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="860" width="170" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
