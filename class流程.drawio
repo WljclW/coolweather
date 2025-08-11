@@ -49,6 +49,30 @@
         <mxCell id="bBRKi4XoIYZRVLOm80eH-11" value="DeviceConditionUI" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="860" width="170" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="bBRKi4XoIYZRVLOm80eH-12" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.46;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="bBRKi4XoIYZRVLOm80eH-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="150" as="sourcePoint" />
+            <mxPoint x="400" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bBRKi4XoIYZRVLOm80eH-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.46;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bBRKi4XoIYZRVLOm80eH-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="535.5" y="270" as="sourcePoint" />
+            <mxPoint x="534.5" y="329" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="535" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bBRKi4XoIYZRVLOm80eH-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.46;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="bBRKi4XoIYZRVLOm80eH-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180.5" y="271" as="sourcePoint" />
+            <mxPoint x="179.5" y="330" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="180" y="235" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
