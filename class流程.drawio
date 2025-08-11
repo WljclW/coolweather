@@ -4,8 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="48h-sI23R1V_ZkSE89mK-1" value="SpecSceneEditPageV2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="48h-sI23R1V_ZkSE89mK-1" value="SpecSceneEditPageV2" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="100" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bBRKi4XoIYZRVLOm80eH-1" value="EditDurationDeviceList" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="150" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
