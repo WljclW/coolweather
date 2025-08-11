@@ -22,6 +22,24 @@
         <mxCell id="bBRKi4XoIYZRVLOm80eH-5" value="TcaDetailOptionAdapter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="555" width="140" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="bBRKi4XoIYZRVLOm80eH-7" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.436;exitY=1.06;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="bBRKi4XoIYZRVLOm80eH-2">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="124" y="459.5" as="sourcePoint" />
+            <mxPoint x="284" y="459.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bBRKi4XoIYZRVLOm80eH-8" value="Extends" style="endArrow=block;endSize=16;endFill=0;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bBRKi4XoIYZRVLOm80eH-3" target="bBRKi4XoIYZRVLOm80eH-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="511" y="403" as="sourcePoint" />
+            <mxPoint x="634" y="479.5" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="535" y="460" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
